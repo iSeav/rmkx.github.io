@@ -27,7 +27,7 @@
     /*Background of the elements when showing*/
     --showing-background: linear-gradient(195deg, rgba(0,182,122,0.39537821964723385) 14%, rgba(0,241,255,0.3785714969581583) 35%, rgba(23,114,246,0.22170875186011907) 59%, rgba(15,8,74,0.2049020291710434) 87%, rgba(6,1,42,0.0536415249693627) 96%);
     
-    --background-image: url(https://i.imgur.com/YiHlt7b.jpg); /*Changes the background image*/
+    --background-image: url(http://image.noelshack.com/fichiers/2021/35/5/1630689363-boruto.jpg); /*Changes the background image*/
     --bg-blur: 0px; /*changes the blur of the background image*/
     --main-accent: rgb(35, 77, 117); /*Main accent of the theme for little elements*/
     --main-accent-rgb: 35, 77, 117; /*RGB code of main accent for some elements, change this if you change main accent*/
